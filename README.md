@@ -24,7 +24,7 @@ Dr. Yohn is an Assistant Professor of Computer and Information Sciences at Flori
 
 ### Faculty Headshot
 
-
+![Faculty Headshot](images/Screenshot%202023-12-20%20at%204.49.29%20PM.png)
 
 ## Mentorship & Support
 
