@@ -42,21 +42,32 @@ Mentor feedback helped shape the redesign by:
 
 ### Tools Used
 
-**HPC / GPU Computing Resources**
-- *Description:* Shared research computing resources providing CPU and GPU nodes, remote Jupyter/JupyterHub access, and support for parallel job execution.
-- *Course Use:* Primary computational environment for AI/ML labs and the final project. Students run neural-network experiments on CPU vs. GPU and compare execution time and resource utilization; train image-classification (CNN) models on HPC GPUs while investigating how batch size, epochs, and architecture affect training time and performance; and run multiple hyperparameter configurations as parallel HPC jobs.
+National Research Platform (NRP)
 
-**Science Gateway**
-- *Description:* A web-based interface through which students access AI/ML applications and computational resources without interacting directly with the underlying HPC infrastructure.
-- *Course Use:* Dedicated Science Gateway lab where students access an AI/ML application through a gateway, select computational resources, execute an ML workflow, monitor the job, retrieve results, visualize results, and explain the computational workflow.
+Description: A national-scale, distributed research computing platform providing shared access to CPU and GPU resources through Kubernetes, including a JupyterHub interface for interactive, GPU-accelerated Jupyter notebooks.
+Course Use: Primary student cyberinfrastructure environment. Students access GPU-accelerated Jupyter notebooks through the NRP JupyterHub to execute AI/ML workflows beyond the local desktop or Google Colab. Labs include running the same neural-network experiment on CPU vs. GPU and comparing execution time and resource utilization; training image-classification (CNN) models on NRP GPUs while investigating how batch size, epochs, and model architecture affect training time and performance; and running multiple hyperparameter configurations as parallel experiments.
 
-**Jupyter / Google Colab / TensorFlow / scikit-learn**
-- *Description:* The course's existing AI/ML development environment and libraries.
-- *Course Use:* Baseline local and cloud environments for model development, providing the comparison point for HPC executions and performance analysis.
+NRP JupyterHub (Science Gateway Experience)
 
-**Cornell Virtual Workshop & HPC Carpentry**
-- *Description:* Online instructional resources covering HPC, parallel computing, GPU computing, and research computing workflows.
-- *Course Use:* Supporting instructional resources used to scaffold faculty and student understanding of HPC concepts and terminology.
+Description: A web-based gateway through which students select computational resources (CPU/GPU, memory) and launch notebook environments without interacting directly with the underlying Kubernetes/HPC infrastructure.
+Course Use: Serves as the students' science gateway experience: they access an AI/ML application through the gateway, select computational resources, execute an ML workflow, monitor the job, retrieve results, visualize results, and explain the computational workflow.
+
+Jupyter / Google Colab / TensorFlow / scikit-learn
+
+Description: The course's existing AI/ML development environment and libraries.
+Course Use: Baseline local and cloud environments for model development. Students complete a structured NRP vs. Google Colab comparison, documenting when shared research cyberinfrastructure provides advantages over free cloud notebooks.
+
+Cornell Virtual Workshop & HPC Carpentry
+
+Description: Online instructional resources covering HPC, parallel computing, GPU computing, and research computing workflows.
+Course Use: Supporting instructional resources used to scaffold faculty and student understanding of HPC concepts and terminology.
+Implementation Notes
+Adjustment 1: Added NRP as the computational environment for AI/ML through hands-on Jupyter notebook labs covering HPC architecture for AI, CPU vs. GPU computing, GPU acceleration, remote JupyterHub access, computational performance, memory and storage considerations, and scaling AI workloads.
+Adjustment 2: Used NRP to reinforce concepts already in the course — CPU vs. GPU neural-network comparisons, GPU-accelerated CNN training experiments, and hyperparameter tuning via parallel experiments.
+Adjustment 3: Introduced the NRP JupyterHub as the students' science gateway experience, bringing together the course's existing outcomes in automation, APIs, cloud tools, scalability, Git, documentation, and reproducibility.
+Adjustment 4: Expanded model "optimization" to include AI/ML computational performance analysis: training time, inference time, CPU/GPU utilization, memory usage, scalability, parallel execution, and resource efficiency.
+Adjustment 5: Redesigned the final project (beginning after Week 8) as an AI + HPC project requiring students to demonstrate AI/ML, computational resources on NRP, and reproducibility.
+Adjustment 6: Added explicit HPC and Science Gateway learning outcomes mapped to labs and the final project, so cyberinfrastructure is assessable rather than supplemental.
 
 ### Implementation Notes
 
