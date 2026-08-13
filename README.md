@@ -19,13 +19,11 @@ Through **FacultyHack@Gateways 2026**, the course is being extended beyond local
 
 Dr. Yohn is an Assistant Professor of Computer and Information Sciences at Florida A&M University, where he is part of the FAMU AI & Data Science Cluster. His teaching and research interests include artificial intelligence, machine learning, LLM safety, data science education, inclusive growth analytics, and the environmental impact of AI infrastructure. He develops hands-on learning experiences that connect AI and machine learning concepts with research computing, real-world datasets, and emerging technologies.
 
-**CV:** [Add link to your CV or professional webpage]
+**CV:** 
 
 ### Faculty Headshot
 
-Upload your headshot to the repository's `/images` folder and update the filename below if needed.
 
-![Faculty Headshot](images/headshot.jpg)
 
 ## Mentorship & Support
 
