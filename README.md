@@ -102,9 +102,9 @@ Students will be able to:
 ## Deliverables Checklist
 
 -  [Original Syllabus](SyllabusAI.pdf)
-   [Revised Syllabus] 
+   Revised Syllabus `Revised_Syllabus.pdf`
    [Poster SGX3](https://docs.google.com/presentation/d/1uoFkRPRZgVHSBQg5-n6E_laD-BTZjN2M/edit?usp=sharing)
-   [SGX3 Blog Post Draft]
+   SGX3 Blog Post Draft `Blog_post`
 
 ---
 
