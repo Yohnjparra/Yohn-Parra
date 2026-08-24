@@ -103,7 +103,7 @@ Students will be able to:
 
 -  [Original Syllabus](SyllabusAI.pdf)
    [Revised Syllabus] 
-   [Gateways 2026 Poster]
+   [Poster SGX3](https://docs.google.com/presentation/d/1uoFkRPRZgVHSBQg5-n6E_laD-BTZjN2M/edit?usp=sharing)
    [SGX3 Blog Post Draft]
 
 ---
