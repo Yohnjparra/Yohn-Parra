@@ -102,9 +102,9 @@ Students will be able to:
 ## Deliverables Checklist
 
 -  [Original Syllabus](SyllabusAI.pdf)
-- [ ] Revised Syllabus: `revised_syllabus.pdf`
-- [ ] Gateways 2026 Poster: `poster_final.pdf`
-- [ ] SGX3 Blog Post Draft: `blog_post.md`
+   [Revised Syllabus] 
+   [Gateways 2026 Poster]
+   [SGX3 Blog Post Draft]
 
 ---
 
