@@ -103,7 +103,7 @@ Students will be able to:
 
 - [Original Syllabus](SyllabusAI.pdf)
 - Revised Syllabus `Revised_Syllabus.pdf`
-- [Poster SGX3](https://docs.google.com/presentation/d/1uoFkRPRZgVHSBQg5-n6E_laD-BTZjN2M/edit?usp=sharing)
+- [Poster SGX3](FacultyHack_Gateways26.pptx.pdf)
 - SGX3 Blog Post Draft `Blog_post`
 
 ---
